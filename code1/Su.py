@@ -1,4 +1,3 @@
-Python Code
 from __future__ import print_function
 import pandas
 from scipy.optimize import NonlinearConstraint, LinearConstraint
